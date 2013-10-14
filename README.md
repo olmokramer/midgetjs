@@ -1,0 +1,4 @@
+midgetjs
+========
+
+Lightweight jQuery framework
