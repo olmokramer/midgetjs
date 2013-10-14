@@ -1,0 +1,16 @@
+[{
+    "title": "Another blogpost",
+    "post_date": "2012-01-01T00:00:00Z",
+    "author": "Olmo Kramer",
+    "bodytext": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+    "media": [{
+    }]
+},
+{
+    "title": "Rare vent kwam net langs",
+    "post_date": "2013-01-01T00:00:00Z",
+    "author": "Wouter Vroege",
+    "bodytext": "Gek hé wat er gebeurde...",
+    "media": [{
+    }]
+}]
